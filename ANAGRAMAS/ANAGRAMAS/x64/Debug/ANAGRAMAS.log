@@ -1,0 +1,3 @@
+﻿  ANAGRAMAS.cpp
+C:\Users\Aluno\source\repos\ANAGRAMAS\ANAGRAMAS\ANAGRAMAS.cpp(6,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  ANAGRAMAS.vcxproj -> C:\Users\Aluno\source\repos\ANAGRAMAS\x64\Debug\ANAGRAMAS.exe
